@@ -1,3 +1,3 @@
-## Projeto do Webinar de Tecnologias Emergentes
+## Projeto do Webinar de Tecnologias Emergentes 22/05/2025
 
-### Professora Letícia
+### Professora Letícia Gomes
