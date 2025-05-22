@@ -1,1 +1,3 @@
-Projeto do Weinar de Tecnologias Emergentes
+## Projeto do Webinar de Tecnologias Emergentes
+
+### Professora Letícia
